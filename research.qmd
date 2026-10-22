@@ -1,0 +1,60 @@
+---
+title: "Research"
+---
+
+## Work in progress
+
+::: {.entry}
+**The far right in Argentina and Brazil: discursive uses of the dictatorial past**  
+[Comparative article.]{.entry-meta}
+:::
+
+::: {.entry}
+**News media and crime in Greater Santiago**  
+[With Juan Pablo Luna and Camila Rojas.]{.entry-meta}  
+How news coverage of crime relates to recorded crime across municipalities in urban Santiago.
+:::
+
+::: {.entry}
+**Political trends in Latin America, 2005–2025**  
+[With Juan Pablo Luna.]{.entry-meta}  
+A large-scale bibliographic study of regional political trends across Latin American countries, using LLM-assisted analysis and coding.
+:::
+
+## Research experience
+
+::: {.entry}
+**Populism in Chile and Uruguay**  
+[Research Assistant to Juan Pablo Luna, 2026–present.]{.entry-meta}  
+Review and editing of a book manuscript on populism in Chile and Uruguay.
+:::
+
+::: {.entry}
+**Citizenship and violence in Latin America**  
+[Millennium Institute VIODEMOS, with Juan Pablo Luna, 2024–2025.]{.entry-meta}  
+An original comparative dataset linking citizenship rights with criminal, structural, and political violence, integrating V-Dem, LAPOP, Latinobarómetro, and original coding. Statistical analyses of state weakness, citizenship gaps, and impunity, and contributions to a FONDECYT proposal on crises of representation and party system change.
+:::
+
+::: {.entry}
+**Crime exposure and educational performance**  
+[COES, with Alejandra Abufhele, Naim Bro, and Juan Pablo Luna, 2024–2025.]{.entry-meta}  
+A georeferenced dataset linking criminal events to educational outcomes in Santiago, analyzed with fixed-effects models and geospatial methods.
+:::
+
+::: {.entry}
+**Chinese foreign direct investment in Latin America**  
+[Millennium Nucleus ICLAC, 2024–2025.]{.entry-meta}  
+Project manager of an interactive public data platform on foreign direct investment, leading an international team of eight researchers and expanding coverage from 7 to 12 countries.
+:::
+
+::: {.entry}
+**Governance of extractive investment in Africa and Latin America**  
+[Millennium Nucleus ICLAC, with María Montt, 2023–2024.]{.entry-meta}  
+Comparative study of extractive investment governance, with statistical analysis of economic and institutional indicators.
+:::
+
+::: {.entry}
+**Chinese COVID-19 aid to Latin America**  
+[FONDECYT project "Chinese Business and Structural Power," with Francisco Urdinez, 2022.]{.entry-meta}  
+A dataset on Chinese COVID-19 aid donations to Latin America, mapping patterns across countries and administrative levels.
+:::
