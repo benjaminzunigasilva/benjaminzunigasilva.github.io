@@ -1,0 +1,21 @@
+---
+title: "Benjamín Zúñiga Silva"
+---
+
+::: {.contact}
+[Email](mailto:benjamn.ziga@uc.cl) · [CV](cv.pdf) · [GitHub](https://github.com/benjaminzunigasilva)
+:::
+
+Primer párrafo de tu bio.
+
+Segundo párrafo.
+
+## Interests
+
+State capacity · Democratic erosion · ...
+
+## Education
+
+M.A. in Political Science, Pontificia Universidad Católica de Chile, 2026–2027
+
+B.A. in Political Science, Pontificia Universidad Católica de Chile, 2020–2024
