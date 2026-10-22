@@ -6,20 +6,44 @@ title: "Benjamín Zúñiga Silva"
 [Email](mailto:benjamn.ziga@uc.cl) · [CV](cv.pdf) · [GitHub](https://github.com/benjaminzunigasilva)
 :::
 
+::: {.panel-tabset group="lang"}
+## EN
+
 I am a political scientist working on comparative politics in Latin America. My research examines state–citizen relations, state capacity, and democratic erosion, with a particular interest in how political authority is exercised where the state is weak or contested.
 
 I am currently pursuing an M.A. in Political Science (Government and Public Policy) at the Pontificia Universidad Católica de Chile, and I have been admitted to the M.A. in Political Science at McGill University. I hold a B.A. in Political Science from the Pontificia Universidad Católica de Chile, where I wrote my thesis on anthropogenic climate change and political legitimacy under the supervision of Ross Mittiga.
 
 I have worked as a research assistant at the Millennium Institute VIODEMOS, the Millennium Nucleus ICLAC, and COES, building original comparative and georeferenced datasets in R. I have also worked as a teaching assistant at the Pontificia Universidad Católica de Chile and the Universidad Adolfo Ibáñez.
 
-## Interests
+### Interests
 
 State capacity · Democratic erosion · Citizenship and violence · Latin American politics · Democratic theory
 
-## Education
+### Education
+
+M.A. in Political Science, McGill University (admitted, Fall 2027)
 
 M.A. in Political Science, Government and Public Policy, Pontificia Universidad Católica de Chile, 2026–2027
 
 B.A. in Political Science, Pontificia Universidad Católica de Chile, 2020–2024
 
-* (Admitted to) M.A. in Political Science, McGill University (Fall, 2027)
+## ES
+
+Soy cientista político, y me especializo en política comparada en América Latina. Mi investigación se enfoca en las relaciones entre Estado y ciudadanía, la capacidad estatal y la erosión democrática, con especial interés en cómo se ejerce la autoridad política donde la presencia del Estado es débil o disputada.
+
+Actualmente curso el Magíster en Ciencia Política, mención Gobierno y Políticas Públicas, en la Pontificia Universidad Católica de Chile, y fui admitido al M.A. in Political Science de McGill University. Soy Cientista Político de la Pontificia Universidad Católica de Chile, donde escribí mi tesis sobre cambio climático antropogénico y legitimidad política bajo la supervisión de Ross Mittiga.
+
+He trabajado como ayudante de investigación en el Instituto Milenio VIODEMOS, el Núcleo Milenio ICLAC y COES, construyendo bases de datos comparadas y georreferenciadas originales en R. También he sido ayudante de cátedra en la PUC y en la Universidad Adolfo Ibáñez.
+
+### Intereses
+
+Capacidad estatal · Erosión democrática · Ciudadanía y violencia · Política latinoamericana · Teoría democrática
+
+### Formación
+
+M.A. in Political Science, McGill University (admitido, otoño 2027)
+
+Magíster en Ciencia Política, mención Gobierno y Políticas Públicas, Pontificia Universidad Católica de Chile, 2026–2027
+
+Cientista Político, Pontificia Universidad Católica de Chile, 2020–2024
+:::
