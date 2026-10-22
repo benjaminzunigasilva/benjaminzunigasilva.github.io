@@ -22,7 +22,7 @@ website:
 
 format:
   html:
-      theme:
+    theme:
       light: [default, light.scss, custom.scss]
       dark: [default, dark.scss, custom.scss]
     page-layout: article
