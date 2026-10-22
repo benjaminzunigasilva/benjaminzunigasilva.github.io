@@ -1,0 +1,25 @@
+project:
+  type: website
+  resources:
+    - cv.pdf
+
+website:
+  title: "Benjamín Zúñiga Silva"
+  site-url: "https://benjaminzunigasilva.github.io"
+  search: false
+  navbar:
+    right:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: cv.pdf
+        text: CV
+  page-footer:
+    center: "Benjamín Zúñiga Silva · Santiago, Chile"
+
+format:
+  html:
+    theme: [default, custom.scss]
+    page-layout: article
+    anchor-sections: false
