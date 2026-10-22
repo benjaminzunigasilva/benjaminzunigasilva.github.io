@@ -6,16 +6,20 @@ title: "Benjamín Zúñiga Silva"
 [Email](mailto:benjamn.ziga@uc.cl) · [CV](cv.pdf) · [GitHub](https://github.com/benjaminzunigasilva)
 :::
 
-Primer párrafo de tu bio.
+I am a political scientist working on comparative politics in Latin America. My research examines state–citizen relations, state capacity, and democratic erosion, with a particular interest in how political authority is exercised where the state is weak or contested.
 
-Segundo párrafo.
+I am currently pursuing an M.A. in Political Science (Government and Public Policy) at the Pontificia Universidad Católica de Chile, and I have been admitted to the M.A. in Political Science at McGill University. I hold a B.A. in Political Science from the Pontificia Universidad Católica de Chile, where I wrote my thesis on anthropogenic climate change and political legitimacy under the supervision of Ross Mittiga.
+
+I have worked as a research assistant at the Millennium Institute VIODEMOS, the Millennium Nucleus ICLAC, and COES, building original comparative and georeferenced datasets in R. I have also worked as a teaching assistant at the Pontificia Universidad Católica de Chile and the Universidad Adolfo Ibáñez.
 
 ## Interests
 
-State capacity · Democratic erosion · ...
+State capacity · Democratic erosion · Citizenship and violence · Latin American politics · Democratic theory
 
 ## Education
 
-M.A. in Political Science, Pontificia Universidad Católica de Chile, 2026–2027
+M.A. in Political Science, Government and Public Policy, Pontificia Universidad Católica de Chile, 2026–2027
 
 B.A. in Political Science, Pontificia Universidad Católica de Chile, 2020–2024
+
+* (Admitted to) M.A. in Political Science, McGill University (Fall, 2027)
