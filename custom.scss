@@ -1,33 +1,34 @@
 /*-- scss:defaults --*/
-$font-family-sans-serif: "EB Garamond", Garamond, "Times New Roman", serif;
-$font-family-base: "EB Garamond", Garamond, "Times New Roman", serif;
-$headings-font-family: "EB Garamond", Garamond, serif;
-$body-bg: #fdfcf8;
-$body-color: #1f1f1f;
-$link-color: #7a1f1f;
-$primary: #7a1f1f;
-$navbar-bg: #fdfcf8;
-$navbar-fg: #1f1f1f;
-$navbar-hl: #7a1f1f;
-$footer-bg: #fdfcf8;
+$font-family-sans-serif: "Cormorant Garamond", "Times New Roman", serif;
+$font-family-base: "Cormorant Garamond", "Times New Roman", serif;
+$headings-font-family: "Cormorant Garamond", serif;
+$body-bg: #1c1b19;
+$body-color: #e8e4da;
+$link-color: #d9a07a;
+$primary: #d9a07a;
+$navbar-bg: #1c1b19;
+$navbar-fg: #e8e4da;
+$navbar-hl: #d9a07a;
+$footer-bg: #1c1b19;
+$headings-color: #f2eee5;
 $headings-font-weight: 500;
 
 /*-- scss:rules --*/
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
 
-body { font-size: 1.22rem; line-height: 1.6; }
+body { font-size: 1.32rem; line-height: 1.6; }
 main.content { max-width: 40rem; }
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-.navbar { border-bottom: 1px solid #ddd8cc; box-shadow: none; }
+.navbar { border-bottom: 1px solid #3a3833; box-shadow: none; }
 .navbar .nav-link { font-variant: small-caps; letter-spacing: 0.06em; }
 
 h1.title { font-size: 2.3rem; font-weight: 500; }
 h2 { font-size: 1.05rem; font-variant: small-caps; letter-spacing: 0.08em; font-weight: 600;
-     margin-top: 2.4rem; padding-bottom: 0.3rem; border-bottom: 1px solid #ddd8cc; }
+     margin-top: 2.4rem; padding-bottom: 0.3rem; border-bottom: 1px solid #3a3833; }
 
-.contact { color: #555; margin-bottom: 2rem; }
+.contact { color: #a8a397; margin-bottom: 2rem; }
 .entry { margin-bottom: 1.1rem; }
-.entry-meta { color: #666; font-style: italic; }
-.nav-footer { border-top: 1px solid #ddd8cc; font-size: 0.95rem; color: #777; }
+.entry-meta { color: #a8a397; font-style: italic; }
+.nav-footer { border-top: 1px solid #3a3833; font-size: 0.95rem; color: #8a867c; }
