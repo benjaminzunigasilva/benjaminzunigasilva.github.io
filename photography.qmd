@@ -1,0 +1,34 @@
+---
+title: "Photography"
+lightbox: true
+---
+
+Photography is something I do outside of research. These are some photographs I have taken!
+
+::: {layout-ncol=2}
+![](photos/06C49809-CC6A-4269-AA46-6F5D6BB59FFA-33628-0000044B3BFAE4AD.jpg)
+
+![](photos/0D19DA53-A791-4F2B-8F5D-7C0C0C12E089-29706-00000F0A2501688A.jpg)
+
+![My cat, Cuchepo](photos/107DE7F7-4FE8-4121-8551-0D01E3785291-43570-0000074F7C24C161.jpg)
+
+![](photos/11E092B9-413C-4B88-9F63-661DC2DB4E2B-29706-00000F0640A7B82C.jpg)
+
+![](photos/3432A829-0B00-45B9-BB3D-2C19B9820CA1-51515-000008C14B9D1EA8.jpg)
+
+![](photos/A41A3443-5CDC-4E5A-B411-207999154409-29706-00000F0968AFBCF3.jpg)
+
+![](photos/A59E9144-73C8-4C71-BFAD-68F8AA0CF7F0-84806-0000088EBC8BE81C.jpg)
+
+![](photos/D680E1B0-0BB6-47D6-BE02-8DF89F62D2D8-29706-00000F07F0170937.jpg)
+
+![](photos/DSC_0631.JPG)
+
+![My dog, Igor](photos/IMG_20200618_214712_Original.JPG)
+
+![](photos/IMG_6991.JPG)
+
+![](photos/IMG_7021.JPG)
+
+![](photos/PenultimateFullSizeRender.jpg)
+:::
