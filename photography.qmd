@@ -3,7 +3,7 @@ title: "Photography"
 lightbox: true
 ---
 
-Photography is something I do outside of research. These are some photographs I have taken!
+Photography is a hooby of mine I do outside of research. These are some photographs I've taken!
 
 ::: {layout-ncol=2}
 ![](photos/06C49809-CC6A-4269-AA46-6F5D6BB59FFA-33628-0000044B3BFAE4AD.jpg)
