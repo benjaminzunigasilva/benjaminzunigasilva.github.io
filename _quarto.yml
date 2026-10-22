@@ -22,6 +22,8 @@ website:
 
 format:
   html:
-    theme: [default, custom.scss]
+      theme:
+      light: [default, light.scss, custom.scss]
+      dark: [default, dark.scss, custom.scss]
     page-layout: article
     anchor-sections: false
