@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Benjamín Zúñiga Silva",
-    "section": "",
-    "text": "Email · CV · GitHub\nI am a political scientist working on comparative politics in Latin America. My research examines state–citizen relations, state capacity, and democratic erosion, with a particular interest in how political authority is exercised where the state is weak or contested.\nI am currently pursuing an M.A. in Political Science (Government and Public Policy) at the Pontificia Universidad Católica de Chile, and I have been admitted to the M.A. in Political Science at McGill University. I hold a B.A. in Political Science from the Pontificia Universidad Católica de Chile, where I wrote my thesis on anthropogenic climate change and political legitimacy under the supervision of Ross Mittiga.\nI have worked as a research assistant at the Millennium Institute VIODEMOS, the Millennium Nucleus ICLAC, and COES, building original comparative and georeferenced datasets in R. I have also worked as a teaching assistant at the Pontificia Universidad Católica de Chile and the Universidad Adolfo Ibáñez."
-  },
-  {
-    "objectID": "index.html#interests",
-    "href": "index.html#interests",
-    "title": "Benjamín Zúñiga Silva",
-    "section": "Interests",
-    "text": "Interests\nState capacity · Democratic erosion · Citizenship and violence · Latin American politics · Democratic theory"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Benjamín Zúñiga Silva",
-    "section": "Education",
-    "text": "Education\nM.A. in Political Science, Government and Public Policy, Pontificia Universidad Católica de Chile, 2026–2027\nB.A. in Political Science, Pontificia Universidad Católica de Chile, 2020–2024\n\n(Admitted to) M.A. in Political Science, McGill University (Fall, 2027)"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -40,6 +19,13 @@
     "title": "Research",
     "section": "Research experience",
     "text": "Research experience\n\nPopulism in Chile and Uruguay\nResearch Assistant to Juan Pablo Luna, 2026–present.\nReview and editing of a book manuscript on populism in Chile and Uruguay.\n\n\nCitizenship and violence in Latin America\nMillennium Institute VIODEMOS, with Juan Pablo Luna, 2024–2025.\nAn original comparative dataset linking citizenship rights with criminal, structural, and political violence, integrating V-Dem, LAPOP, Latinobarómetro, and original coding. Statistical analyses of state weakness, citizenship gaps, and impunity, and contributions to a FONDECYT proposal on crises of representation and party system change.\n\n\nCrime exposure and educational performance\nCOES, with Alejandra Abufhele, Naim Bro, and Juan Pablo Luna, 2024–2025.\nA georeferenced dataset linking criminal events to educational outcomes in Santiago, analyzed with fixed-effects models and geospatial methods.\n\n\nChinese foreign direct investment in Latin America\nMillennium Nucleus ICLAC, 2024–2025.\nProject manager of an interactive public data platform on foreign direct investment, leading an international team of eight researchers and expanding coverage from 7 to 12 countries.\n\n\nGovernance of extractive investment in Africa and Latin America\nMillennium Nucleus ICLAC, with María Montt, 2023–2024.\nComparative study of extractive investment governance, with statistical analysis of economic and institutional indicators.\n\n\nChinese COVID-19 aid to Latin America\nFONDECYT project “Chinese Business and Structural Power,” with Francisco Urdinez, 2022.\nA dataset on Chinese COVID-19 aid donations to Latin America, mapping patterns across countries and administrative levels."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Benjamín Zúñiga Silva",
+    "section": "",
+    "text": "Email · CV · GitHub\n\n\nENES\n\n\nI am a political scientist working on comparative politics in Latin America. My research examines state–citizen relations, state capacity, and democratic erosion, with a particular interest in how political authority is exercised where the state is weak or contested.\nI am currently pursuing an M.A. in Political Science (Government and Public Policy) at the Pontificia Universidad Católica de Chile, and I have been admitted to the M.A. in Political Science at McGill University. I hold a B.A. in Political Science from the Pontificia Universidad Católica de Chile, where I wrote my thesis on anthropogenic climate change and political legitimacy under the supervision of Ross Mittiga.\nI have worked as a research assistant at the Millennium Institute VIODEMOS, the Millennium Nucleus ICLAC, and COES, building original comparative and georeferenced datasets in R. I have also worked as a teaching assistant at the Pontificia Universidad Católica de Chile and the Universidad Adolfo Ibáñez.\n\nInterests\nState capacity · Democratic erosion · Citizenship and violence · Latin American politics · Democratic theory\n\n\nEducation\nM.A. in Political Science, McGill University (admitted, Fall 2027)\nM.A. in Political Science, Government and Public Policy, Pontificia Universidad Católica de Chile, 2026–2027\nB.A. in Political Science, Pontificia Universidad Católica de Chile, 2020–2024\n\n\n\nSoy cientista político, y me especializo en política comparada en América Latina. Mi investigación se enfoca en las relaciones entre Estado y ciudadanía, la capacidad estatal y la erosión democrática, con especial interés en cómo se ejerce la autoridad política donde la presencia del Estado es débil o disputada.\nActualmente curso el Magíster en Ciencia Política, mención Gobierno y Políticas Públicas, en la Pontificia Universidad Católica de Chile, y fui admitido al M.A. in Political Science de McGill University. Soy Cientista Político de la Pontificia Universidad Católica de Chile, donde escribí mi tesis sobre cambio climático antropogénico y legitimidad política bajo la supervisión de Ross Mittiga.\nHe trabajado como ayudante de investigación en el Instituto Milenio VIODEMOS, el Núcleo Milenio ICLAC y COES, construyendo bases de datos comparadas y georreferenciadas originales en R. También he sido ayudante de cátedra en la PUC y en la Universidad Adolfo Ibáñez.\n\nIntereses\nCapacidad estatal · Erosión democrática · Ciudadanía y violencia · Política latinoamericana · Teoría democrática\n\n\nFormación\nM.A. in Political Science, McGill University (admitido, otoño 2027)\nMagíster en Ciencia Política, mención Gobierno y Políticas Públicas, Pontificia Universidad Católica de Chile, 2026–2027\nCientista Político, Pontificia Universidad Católica de Chile, 2020–2024"
   },
   {
     "objectID": "photography.html",
